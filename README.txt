@@ -1,20 +1,7 @@
-Saudações, professor.
+When raphaelPSO.py is run, a gif will be generated in addition to the shell output.
 
-Esse é um arquivo para orientar sobre o trabalho.
+PSO.gif shows how the particles behave to find the minimum of the function.
 
-O arquivo em pdf é o trabalho escrito.
+Inside raphaelPSO.py there is a variable called n_particles, which represents the number of particles (or population) that will be used. It is interesting to vary this number and visualize the behavior in PSO.gif, if you wish.
 
-O arquivo raphaelPSO.py é a implementação.
-
-Sempre que raphaelPSO.py for executado, será gerado um gif, além da saída no shell.
-
-PSO.gif, ele mostra como as partículas se comportam para achar o mínimo da função.
-
-A dentro de raphaelPSO.py há uma variável chamada n_particles, que representa o número de partículas (ou população) que será usado. É interessante variar esse número e visualizar em PSO.gif o comportamento, caso deseje.
-
-
-Eu queria fazer o gif 3D, mas não consegui, desculpe.
-
-
-Grande abraço.
 
